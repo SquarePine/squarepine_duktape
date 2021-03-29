@@ -1,2 +1,3 @@
 # squarepine_duktape
-A C++ unity build module in the format of a JUCE module.
+
+A Duktape (Javascript) wrapper in the form of a JUCE module.
